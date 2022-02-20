@@ -1,10 +1,11 @@
 # Read01 - TDD
 1.Event Loop.
 2.JS callback functions.
-*3-JS Promises.
+3-JS Promises.
 4-JS Async/Await.
 5-Test-Driven Development.
-###*Event Loop*
+
+### *Event Loop*
 An event loop is something that pulls stuff out of the queue and places it onto the function execution stack 
 whenever the function stack becomes empty.
 
