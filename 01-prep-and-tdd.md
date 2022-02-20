@@ -1,5 +1,5 @@
 # Read01 - TDD
-* 1-Event Loop.
+* 1.Event Loop.
 * 2-JS callback functions.
 *3-JS Promises.
 4-JS Async/Await.
