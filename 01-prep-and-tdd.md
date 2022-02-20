@@ -1,7 +1,7 @@
 # Read01 - TDD
-1-Event Loop.
-2-JS callback functions.
-3-JS Promises.
+*1-Event Loop.
+*2-JS callback functions.
+*3-JS Promises.
 4-JS Async/Await.
 5-Test-Driven Development.
 ###*Event Loop*
