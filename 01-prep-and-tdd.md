@@ -27,16 +27,16 @@ function as an arrow function,and we can use it with  event declarations.
 Promises are used to handle asynchronous operations in JS.
 
 -Benefits of Promises 
- 1-Improves Code Readability.
- 2-Better handling of asynchronous operations.
- 3-Better flow of control definition in asynchronous logic.
- 4-Better Error Handling.
+* Improves Code Readability.
+* Better handling of asynchronous operations.
+* Better flow of control definition in asynchronous logic.
+* Better Error Handling.
 
 -A Promise has four states: 
- 1-fulfilled: Action related to the promise succeeded
- 2-rejected: Action related to the promise failed
- 3-pending: Promise is still pending i.e. not fulfilled or rejected yet
- 4-settled: Promise has fulfilled or rejected
+* fulfilled: Action related to the promise succeeded
+* rejected: Action related to the promise failed
+* pending: Promise is still pending i.e. not fulfilled or rejected yet
+ * settled: Promise has fulfilled or rejected
 
 Promises can be consumed by registering functions using .then and .catch methods.
 
