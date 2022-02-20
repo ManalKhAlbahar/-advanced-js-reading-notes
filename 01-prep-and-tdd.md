@@ -18,7 +18,7 @@ We can use a built-in method in JS called “setTimeout”, which calls a functi
 after a given period of time (in ms). 
 We can define a function directly inside another function, instead of calling it,also we can write the same callback
 function as an arrow function,and we can use it with  event declarations.
-For more details see [JS callback functions](https://www.freecodecamp.org/news/JS-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/).
+ For more details see [JS callback functions](https://www.freecodecamp.org/news/JS-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/).
 
 ### *JS Promises*
 Promises are used to handle asynchronous operations in JS.
