@@ -40,3 +40,5 @@ It is a mini express application without all the bells and whistles of an expres
 - Use route middleware to validate parameters using .param()
 - Use app.route() as a shortcut to the Router to define multiple requests on a route
 
+For more details see [Express Routing](https://www.digitalocean.com/community/tutorials/learn-to-use-the-new-router-in-expressjs-4).
+
