@@ -36,7 +36,7 @@ Promises are used to handle asynchronous operations in JS.
 * fulfilled: Action related to the promise succeeded
 * rejected: Action related to the promise failed
 * pending: Promise is still pending i.e. not fulfilled or rejected yet
-* settled: Promise has fulfilled or rejected
+ * settled: Promise has fulfilled or rejected
 
 Promises can be consumed by registering functions using .then and .catch methods.
 
