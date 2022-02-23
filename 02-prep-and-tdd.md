@@ -7,12 +7,9 @@
 
 ### *Answer the question*
 - Q1 :
-| put |  PATCH     | 
-| :---: | :---: |
-| PUT is a method of modifying resource where the client sends data that updates the entire resource .| PATCH is a method of modifying resources where the client sends partial data that is to be updated without modifying the entire data. |
-| In a PUT request, the enclosed entity is considered to be a modified version of the resource stored on the origin server, and the client is requesting that the stored version be replaced|With PATCH, however, the enclosed entity contains a set of instructions describing how a resource currently residing on the origin server should be modified to produce a new version.|
-| HTTP PUT is said to be idempotent, So if you send retry a request multiple times, that should be equivalent to a single request modification|  HTTP PATCH is basically said to be non-idempotent. So if you retry the request N times, you will end up having N resources with N different URIs created on the server.|
-| It has High Bandwidth | 	Since Only data that need to be modified if send in the request body as a payload , It has Low Bandwidth|
+- PUT is a method of modifying resource where the client sends data that updates the entire resource .
+- PATCH is a method of modifying resources where the client sends partial data that is to be updated without 
+modifying the entire data.
 
 - Q2 : Nock, MockServer,Beeceptor
 
