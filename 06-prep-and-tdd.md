@@ -16,7 +16,7 @@ variable. A single object used across systems remains constant and needs to be d
 rather than many times.
 
 - Q2 : : Singleton design pattern restricts the instantiation of a class to a single instance
-- 
+
 - Q3 : An Express application can use the following types of middleware:
 
 - Application-level middleware
