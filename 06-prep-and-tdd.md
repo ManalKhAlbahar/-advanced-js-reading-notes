@@ -15,9 +15,15 @@ The singleton pattern is used in programming languages such as Java and .NET to 
 variable. A single object used across systems remains constant and needs to be defined only once 
 rather than many times.
 
-- Q2 : True
-- Q3 : Middleware could be built as so when a set of parameters are requested within a webpage it 
-bypasses a response cycle and overlay’s a set of data.
+- Q2 : : Singleton design pattern restricts the instantiation of a class to a single instance
+- 
+- Q3 : An Express application can use the following types of middleware:
+
+- Application-level middleware
+- Router-level middleware
+- Error-handling middleware
+- Built-in middleware
+- Third-party middleware
 
 ### *Securing Passwords*
 
