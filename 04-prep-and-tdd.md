@@ -61,5 +61,4 @@ sometimes use models to illustrate my points.
 There are many types of modeling software you can use to create models, such as MySql Workbench, which not only 
 create smart looking diagrams, but also generate the code to create the database.
 
-For more details see [sql modeling techniques](https://www.essentialsql.com/
-get-ready-to-learn-sql-7-simplified-data-modeling/).
+For more details see [sql modeling techniques](https://www.essentialsql.com/get-ready-to-learn-sql-7-simplified-data-modeling/).
