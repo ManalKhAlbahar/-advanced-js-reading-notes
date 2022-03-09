@@ -11,4 +11,4 @@ My reading notes through advanced-JS course.
 | Read05| [Read05](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/05-prep-and-tdd.md) |
 | Read06| [Read06](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/06-prep-and-tdd.md) |
 | Read07| [Read07](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/07-prep-and-tdd.md) |
-
+| Read08| [Read08](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/08-prep-and-tdd.md) |
