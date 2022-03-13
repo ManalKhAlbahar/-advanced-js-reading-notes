@@ -49,8 +49,4 @@ ensures that users can take on only roles for which they are authorized.
 subject's active role. With rules 1 and 2, this rule ensures that users can exercise only permissions for which 
 they are authorized.
 
-<<<<<<< HEAD
 For more details see [wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control).
-=======
-For more details see [wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control).
->>>>>>> 07e7fffe1b92cb09bd6ed8ad374e1cd52927aca0
