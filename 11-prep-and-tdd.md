@@ -2,7 +2,6 @@
 * Answer the question.
 * Event Driven Programming.
 * Node docs: events.
-* wiki - RBAC.
 
 ### *Answer the question*
 - Q1: Access control is important because it is a valuable security technique that can be used to regulate who or what can view or use any given 
