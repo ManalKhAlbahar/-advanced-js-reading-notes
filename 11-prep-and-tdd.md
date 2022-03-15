@@ -1,4 +1,4 @@
-# Read08
+# Read11
 * Answer the question.
 * Event Driven Programming.
 * Node docs: events.
@@ -8,7 +8,29 @@
 - Q1: Access control is important because it is a valuable security technique that can be used to regulate who or what can view or use any given 
 resource. In an I.T security setting this could translate to who can access and edit a particular file, what kinds of equipment can be used or who 
 can access certain devices. 
-- Q2: 
+
+- Q2: roles are required for an extreme programming project to work and the persons who take these roles take the corresponding responsibilities 
+and are accountable for their contribution to these roles. It is advised to allocate the right people for the roles rather than trying to change 
+the people to fit into those roles.
+
+- Q3: Role-based access control (RBAC), also known as role-based security, is an access control method that assigns permissions to end-users based 
+on their role within your organization. RBAC provides fine-grained control, offering a simple, manageable approach to access management that is 
+less error-prone than individually assigning permissions. 
+
+- Q4: 1. DAC is the way to go to let people manage the content they own. It might sound obvious, but for instance DAC is very good to let users an 
+online social network choose who accesses their data. It allows people to revoke or forward privileges easily and immediately. Reactive access 
+control, Seeing further and Laissez-faire file sharing provide nice examples of research on DAC with users.
+
+2. RBAC is a form of access control which as you said is suitable to separate responsibilities in a system where multiple roles are fulfilled. 
+This is obviously true in corporations (often along with compartmentalization e.g. Brewer and Nash or MCS) but can also be used on a single user 
+operating system to implement the principle of least privilege. RBAC is designed for separation of duties by letting users select the roles they 
+need for a specific task. The key question is whether you use roles to represent tasks performed on your system and assign roles in a central 
+authority (in which case RBAC is a form of MAC); or if you use roles to let users control permissions on their own objects (leading to multiple 
+roles per object and absolutely no semantics in roles, even though it's theoretically possible).
+
+3. MAC in itself is vague, there are many many ways to implement it for many systems. In practice, you'll often use a combination of different 
+paradigms. For instance, a UNIX system mostly uses DAC but the root account bypasses DAC privileges. In a corporation, beyond separating your 
+different departments and teams with MAC/RBAC you may allow some DAC for coworkers to share information on your corporate file system.
 
 
 
