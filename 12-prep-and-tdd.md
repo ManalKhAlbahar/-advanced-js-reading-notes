@@ -41,7 +41,8 @@ to change from the HTTP protocol to the WebSocket protocol.
 - What Socket.IO is Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server.
 
 - Server API
-![Server API](https://socket.io/images/server-class-diagram-server.png)
+
+- ![Server API](https://socket.io/images/server-class-diagram-server.png)
 
 - Server Installation : 
      npm install socket.io
