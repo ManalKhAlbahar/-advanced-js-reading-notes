@@ -42,7 +42,7 @@ to change from the HTTP protocol to the WebSocket protocol.
 
 - Server API
 
-- ![Server API](https://socket.io/images/server-class-diagram-server.png)
+ ![Server API](https://socket.io/images/server-class-diagram-server.png)
 
 - Server Installation : 
      npm install socket.io
@@ -59,7 +59,8 @@ installed on your machine.
 To install those packages:
          npm install --save-optional bufferutil utf-8-validate
 
-### *client-api*
+### *client-api*  
+
 - IO :The io method is bound to the global scope in the standalone build:
       <script src="/socket.io/socket.io.js"></script>
      <script>
@@ -73,6 +74,7 @@ The protocol defines the format of the packets exchanged between the client and 
 same revision in order to understand each other.     
 
 - Manager:
+ 
 ![Manager](https://socket.io/images/client-class-diagram-manager.png)        
 
 * The Manager manages the Engine.IO client instance, which is the low-level engine that establishes the connection to the server (by 
