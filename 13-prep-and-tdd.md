@@ -49,12 +49,12 @@ nearly identical API.
 3.  make the http server listen on port 3000.
 
 - Integrating Socket.IO:
-Socket.IO is composed of two parts:
+- Socket.IO is composed of two parts:
 1. A server that integrates with (or mounts on) the Node.JS HTTP Server socket.io
 2. A client library that loads on the browser side socket.io-client.
 
 install Socket.IO
-     npm install socket.io
+-     npm install socket.io
 
 - ![Socket.io Chat Example](https://camo.githubusercontent.com/bdd5b0e29e317fd50a2544ea899cb871c11548a0827d2e3734a603f79106874e/687474703a2f2f692e696d6775722e636f6d2f6a565a315877692e706e67)
 
