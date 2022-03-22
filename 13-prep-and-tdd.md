@@ -29,7 +29,7 @@ nearly identical API.
 ### *Socket.io Chat Example*
 - The first goal is to set up a simple HTML webpage that serves out a form and a list of messages.
 - install dependencies property with the things we need
-      npm install express@4
+-       npm install express@4
 
 - creat index.js file that will set up our application.
 -       const express = require('express');
@@ -49,7 +49,7 @@ nearly identical API.
 3.  make the http server listen on port 3000.
 
 - Integrating Socket.IO:
-- Socket.IO is composed of two parts:
+Socket.IO is composed of two parts:
 1. A server that integrates with (or mounts on) the Node.JS HTTP Server socket.io
 2. A client library that loads on the browser side socket.io-client.
 
