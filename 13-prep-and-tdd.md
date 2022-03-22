@@ -32,7 +32,7 @@ nearly identical API.
       npm install express@4
 
 - creat index.js file that will set up our application.
-       const express = require('express');
+-       const express = require('express');
        const app = express();
        const http = require('http');
        const server = http.createServer(app);
