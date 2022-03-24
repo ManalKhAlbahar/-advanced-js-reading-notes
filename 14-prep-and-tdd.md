@@ -100,6 +100,45 @@ be added to the call stack.
                  if front.right is not NULL
                    breadth.enqueue(front.right)
 
-                   
+### *Binary Tree Vs K-ary Trees*
+- Trees can have any number of children per node, but Binary Trees restrict the number of children to two (hence our left and right children).
+- There is no specific sorting order for a binary tree. Nodes can be added into a binary tree wherever space allows. Here is what a binary tree looks like:
+
+![Binary Tree Vs K-ary Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinaryTree2.PNG)
+
+- K-ary Trees
+If Nodes are able have more than 2 child nodes, we call the tree that contains them a K-ary Tree. In this type of tree we use K to refer to the maximum number of children that each 
+Node is able to have.
+- Breadth First Traversal
+Traversing a K-ary tree requires a similar approach to the breadth first traversal. We are still pushing nodes into a queue, but we are now moving down a list of children of length k, 
+instead of checking for the presence of a left and a right child.
+
+![K-ary Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/KaryTree1.png)
+
+- If we traversed this tree Breadth First we should see the output:
+         Output: A, B, C, D, E, F, G, H
+         
+- Pseudocode:
+            ALGORITHM breadthFirst(root)
+            // INPUT  <-- root node
+            // OUTPUT <-- front node of queue to console
+
+              Queue breadth <-- new Queue()
+              breadth.enqueue(root)
+
+              while ! breadth.is_empty()
+                node front = breadth.dequeue()
+                OUTPUT <-- front.value
+
+                for child in front.children
+                    breadth.enqueue(child)
+
+- Binary Search Trees:
+A Binary Search Tree (BST) is a type of tree that does have some structure attached to it. In a BST, nodes are organized in a manner where all values that are smaller than the root are 
+placed to the left, and all values that are larger than the root are placed to the right.
+
+Here is how we would change our Binary Tree example into a Binary Search Tree:
+
+![BST](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BST1.PNG)
 
 For more details watch this [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html).
