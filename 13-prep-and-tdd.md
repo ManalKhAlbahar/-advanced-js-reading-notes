@@ -29,19 +29,19 @@ nearly identical API.
 ### *Socket.io Chat Example*
 - The first goal is to set up a simple HTML webpage that serves out a form and a list of messages.
 - install dependencies property with the things we need
--       npm install express@4
+      npm install express@4
 
 - creat index.js file that will set up our application.
--       const express = require('express');
-       const app = express();
-       const http = require('http');
-       const server = http.createServer(app);
-       app.get('/', (req, res) => {
-       res.send('<h1>Hello world</h1>');
-       });
-       server.listen(3000, () => {
-       console.log('listening on *:3000');
-       });
+    const express = require('express');
+    const app = express();
+    const http = require('http');
+    const server = http.createServer(app);
+    app.get('/', (req, res) => {
+    res.send('<h1>Hello world</h1>');
+    });
+    server.listen(3000, () => {
+    console.log('listening on *:3000');
+    });
 
 - This means that:
 1. Express initializes app to be a function handler that you can supply to an HTTP server (as seen in line 4).
@@ -54,7 +54,7 @@ Socket.IO is composed of two parts:
 2. A client library that loads on the browser side socket.io-client.
 
 install Socket.IO
--     npm install socket.io
+     npm install socket.io
 
 - ![Socket.io Chat Example](https://camo.githubusercontent.com/bdd5b0e29e317fd50a2544ea899cb871c11548a0827d2e3734a603f79106874e/687474703a2f2f692e696d6775722e636f6d2f6a565a315877692e706e67)
 
