@@ -1,4 +1,4 @@
-# Read16 :  AWS: S3 and Lambda
+# Read17 :  AWS: S3 and Lambda
 * AWS S3.
 * AWS Lambda Basics.
 * AWS Lambda Functions.
