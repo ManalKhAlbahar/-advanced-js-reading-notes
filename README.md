@@ -23,3 +23,4 @@ My reading notes through advanced-JS course.
 | Read18| [Read18](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/18-prep-and-tdd.md) |
 | Read26| [Read26](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/26-prep-and-tdd.md) |
 | Read27| [Read27](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/27-prep-and-tdd.md) |
+| Read28| [Read28](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/28-prep-and-tdd.md) |
