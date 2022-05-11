@@ -54,7 +54,7 @@ The GetHash will accept a key as a string, conduct the hash, and then return the
 placed.
 
 
-For more details see [useReducer hook](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html).
+For more details see [Hashtables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html).
 
 ### *What is a HashTable Data Structure*
 
