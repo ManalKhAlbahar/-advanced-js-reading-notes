@@ -31,7 +31,7 @@ consuming components to use defaultValue.
 
 * Context.Provider
 
-             <MyContext.Provider value={/* some value */}>
+        <MyContext.Provider value={/* some value */}>
 
 The Provider component accepts a value prop to be passed to consuming components that are descendants of this Provider. One Provider 
 can be connected to many consumers. Providers can be nested to override values deeper within the tree.
@@ -40,4 +40,4 @@ For more details see [context api](https://reactjs.org/docs/context.html).
 
 For more details see [hooks and context example](https://medium.com/swlh/snackbars-in-react-an-exercise-in-hooks-and-context-299b43fd2a2b).
 
-For more details see [react context links]().
+For more details see [react context links](https://github.com/diegohaz/awesome-react-context).
