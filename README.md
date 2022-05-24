@@ -30,3 +30,4 @@ My reading notes through advanced-JS course.
 | Read32| [Read32](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/32-prep-and-tdd.md) |
 | Read33| [Read33](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/33-prep-and-tdd.md) |
 | Read34| [Read34](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/34-prep-and-tdd.md) |
+| Read35| [Read35](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/35-prep-and-tdd.md) |
