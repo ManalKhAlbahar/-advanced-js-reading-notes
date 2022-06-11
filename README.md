@@ -35,3 +35,4 @@ My reading notes through advanced-JS course.
 | Read37| [Read37](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/37-prep-and-tdd.md) |
 | Read38| [Read38](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/38-prep-and-tdd.md) |
 | Read39| [Read39](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/39-prep-and-tdd.md) |
+| Read40| [Read40](https://github.com/ManalKhAlbahar/advanced-js-reading-notes/blob/main/40-prep-and-tdd.md) |
