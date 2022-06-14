@@ -1,7 +1,5 @@
 # Read42: Ethics
-* 
 
-### **
 - As developers, we are often one of the last lines of defense against potentially dangerous and unethical practices and should always try to think twice about the effects of my code before I write it.
 
 - Software engineers shall commit themselves to making the analysis, specification, design, development, testing and maintenance of software a beneficial and respected profession. In accordance with their commitment to the health, safety and welfare of the public, software engineers shall adhere to the following Eight Principles:
